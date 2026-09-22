@@ -24,11 +24,11 @@ const quran = Scheherazade_New({
 
 export const metadata: Metadata = {
   title: {
-    default: "Deen Diary – Prayer Tracker & Spiritual Journal",
+    default: "Deen Diary – Prayer Tracker & Spiritual Journall",
     template: "%s · Deen Diary",
   },
   description:
-    "Organize your day, remember Allah, and grow spiritually. Prayer times for Pakistan, Quran reading, Dhikr, journal, tasks, habits and more.",
+    "Organize your day, remember Allah, and grow spiritually. Prayer times for Pakistan, Quran reading, Dhikr, journal, tasks, habits and more Build By Hizbullah Khalifa.",
   keywords: [
     "prayer times",
     "namaz",
